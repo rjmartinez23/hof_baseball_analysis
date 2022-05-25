@@ -107,13 +107,6 @@ Send2Trash==1.8.0
 six==1.16.0
 sklearn==0.0
 soupsieve==2.3.1
-tensor==0.3.6
-tensorboard==2.7.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.0
-tensorflow==2.7.0
-tensorflow-estimator==2.7.0
-tensorflow-io-gcs-filesystem==0.23.1
 termcolor==1.1.0
 terminado==0.12.1
 testpath==0.5.0
