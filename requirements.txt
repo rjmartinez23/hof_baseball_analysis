@@ -36,5 +36,6 @@ scipy
 six
 sklearn
 tqdm
+xgboost
 umap-learn
 urllib3
