@@ -1,4 +1,7 @@
+bokeh
 certifi
+colorcet
+datashader
 decorator
 Flask
 google-auth
@@ -7,6 +10,7 @@ google-pasta
 grpcio
 h5py
 hdbscan
+holoviews
 ipython
 Jinja2
 joblib
@@ -31,6 +35,7 @@ plotly
 pyarrow
 pybaseball==2.2.1
 requests
+scikit-image
 scikit-learn
 scipy
 six
